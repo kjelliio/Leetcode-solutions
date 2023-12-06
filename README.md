@@ -1,2 +1,2 @@
-# Leetcode-solutions
-Here you can find my solutions to all leetcode problems i have solved ( keep in mind some of these solutions are not perfect but still work)
+# leetcode solutions
+I post 1-5 solutions each day depending how many problems i do. Just to see how my solutions get better over time:)
